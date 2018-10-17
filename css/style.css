@@ -16,7 +16,7 @@ h6 {
 
 @media screen and (max-width: 576px) {
     .text-item {
-        background: url(../images/logo.jpg) no-repeat top left;
+        background: url(../images/logo.JPG) no-repeat top left;
         background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
@@ -61,7 +61,7 @@ h6 {
     }
 
     .text-item {
-        background: url(../images/logo.jpg) no-repeat center left;
+        background: url(../images/logo.JPG) no-repeat center left;
         background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
@@ -71,7 +71,7 @@ h6 {
 
 @media screen and (min-width: 768px) {
     body {
-        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background: url(../images/logo.JPG) no-repeat center center fixed;
         background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
@@ -94,7 +94,7 @@ h6 {
 
 @media screen and (min-width: 992px) {
     body {
-        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background: url(../images/logo.JPG) no-repeat center center fixed;
         background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
@@ -117,7 +117,7 @@ h6 {
 
 @media screen and (min-width: 1200px) {
     body {
-        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background: url(../images/logo.JPG) no-repeat center center fixed;
         background-size: cover;
         -moz-background-size: cover;
         -webkit-background-size: cover;
