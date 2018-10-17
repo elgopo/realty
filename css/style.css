@@ -1,0 +1,140 @@
+.text-question {
+    font-size: 40px;
+}
+
+h1 {
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+h6 {
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.logoprozorro {
+    width: 250px;
+}
+
+@media screen and (max-width: 576px) {
+    .text-item {
+        background: url(../images/logo.jpg) no-repeat top left;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .form-item {
+        padding: 0;
+    }
+    .text-item {
+        padding: 100px 50px;
+    }
+    .logo-item {
+        margin: 0;
+        padding:20px 0;
+        background: -webkit-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -moz-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -ms-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -o-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: linear-gradient(to right, #295EAF 25%, white 45%);
+    
+    }
+}
+
+@media screen and (min-width: 577px) {
+   
+
+    .form-item {
+        padding: 0;
+    }
+    .text-item {
+        padding:100px 50px;
+    }
+    .logo-item {
+        margin: 0;
+    
+        background: -webkit-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -moz-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -ms-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: -o-linear-gradient(to right, #295EAF 25%, white 45%);
+        background: linear-gradient(to right, #295EAF 25%, white 45%);
+    }
+
+    .text-item {
+        background: url(../images/logo.jpg) no-repeat center left;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+    }
+
+
+    .form-item {
+        padding: 100px 50px;
+    }
+    .text-item {
+        padding: 50px;
+        background:none;
+    }
+    .logo-item {
+        margin: 50px 0;
+        background: none;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    body {
+        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .form-item {
+        padding: 50px;
+    }
+    .text-item {
+        padding: 50px;
+        background: none;
+    }
+    .logo-item {
+        margin: 50px 0;
+        background: none;
+    }
+    
+}
+
+@media screen and (min-width: 1200px) {
+    body {
+        background: url(../images/logo.jpg) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+    }
+
+    .form-item {
+        padding: 50px;
+    }
+    .logo-item {
+        margin: 50px 0;
+        background: none;
+     
+    }
+    .text-item {
+        padding: 50px;
+        background: none;
+    }
+   
+}
